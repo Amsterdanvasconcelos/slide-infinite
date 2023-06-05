@@ -1,0 +1,13 @@
+:root {
+    --bg-color: #1f2029;
+    --font-first: 'Koulen', cursive;
+    --font-second: 'PT Sans', sans-serif;
+}
+
+*, *::before, *::after {
+    padding: 0;
+    border: none;
+    margin: 0;
+    box-sizing: border-box;
+}
+
